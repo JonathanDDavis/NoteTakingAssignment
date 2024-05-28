@@ -1,0 +1,13 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\bin\Debug\netstandard2.0\NoteTakingAssignment.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\bin\Debug\netstandard2.0\NoteTakingAssignment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\bin\Debug\netstandard2.0\ref\NoteTakingAssignment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\bin\Debug\netstandard2.0\NoteTakingAssignment.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\ref\NoteTakingAssignment.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\NoteTakingAssignment\NoteTakingAssignment\NoteTakingAssignment\obj\Debug\netstandard2.0\NoteTakingAssignment.pdb
